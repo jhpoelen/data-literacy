@@ -2,6 +2,7 @@
 episodes/*html
 site/*
 !site/README.md
+!site/docs
 
 # History files
 .Rhistory
@@ -44,7 +45,7 @@ vignettes/*.pdf
 .Renviron
 
 # pkgdown site
-docs/
+# docs/
 
 # translation temp files
 po/*~
