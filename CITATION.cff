@@ -15,6 +15,9 @@ type: dataset
 authors:
   - given-names: FIXME
     family-names: FIXME
+contact:
+  - given-names: CONTACTME
+    family-names: CONTACTME
 abstract: >-
   FIXME Replace this with a short abstract describing the
   lesson, e.g. its target audience and main intended
